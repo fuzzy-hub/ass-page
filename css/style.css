@@ -98,3 +98,29 @@
     display: flex;
     gap: 30px;
 }
+.mee{
+    display: flex;
+}
+.desktop .header{
+    height: 50px;
+    width: 150px;
+}
+.desktop .menu{
+    width: 500px;
+    height: 50px;
+}
+.desktop .hero{
+    width: 650px;
+    height: 300px;
+}
+.desktop .main{
+    width: 270px;
+    height: 200px;
+}
+.desktop .fuh{
+    display: flex;
+    gap: 180px;
+}
+.desktop .banner{
+    width: 650px;
+}
